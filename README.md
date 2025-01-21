@@ -1,1 +1,1 @@
-I've been working on building my own Convolutional Neural Network (CNN) from scratch based on this presentation I gave for MIT PRIMES CS Circle! Right now, the underlying math works and I'm working on training it to recognize shapes.
+I've been working on building my own Convolutional Neural Network (CNN) from scratch based on [this presentation](https://math.mit.edu/research/highschool/primes/materials/2024/December/2-5-Egan.pdf) I gave for MIT PRIMES CS Circle! Right now, the underlying math works and I'm working on training it to recognize shapes.
